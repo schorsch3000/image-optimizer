@@ -1,0 +1,19 @@
+{
+  "name": "image-optimizer",
+  "version": "0.1.0",
+  "description": "",
+  "main": "Gulpfile.js",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-ignore": "^2.0.1",
+    "gulp-imagemin": "^3.0.3",
+    "gulp-using": "^0.1.1",
+    "gulp-webp": "^2.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
